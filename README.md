@@ -1,20 +1,24 @@
 # Hi there, I'm Anant Paul! 👋
 
 ## 🎓 About Me
-- 🏫 B.Tech CSE (AIML) | 2nd Year
-- 🇮🇳 India
-- 🌱 Currently learning **Machine Learning**
+- 🏫 B.Tech CSE (AIML) | 2nd Year | India
+- 🌱 Currently learning **Machine Learning** & **Java**
 - 💻 Love building real projects
 - 📧 14359shanant@gmail.com
 
 ## 🛠️ Tech Stack
+### ✅ Known
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00897B?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔄 Currently Learning
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🚀 Projects
 | Project | Description | Tech | Live |
