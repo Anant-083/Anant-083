@@ -34,4 +34,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anant-083&theme=tokyonight)
 
 ---
-⭐ **If you like my projects, give them a star!** ⭐ this is my current
+⭐ **If you like my projects, give them a star!** ⭐
