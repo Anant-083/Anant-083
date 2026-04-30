@@ -19,7 +19,7 @@
 ```python
 Anant = {
     "degree"   : "B.Tech CSE (AI & ML) — 2nd Year",
-    "country"  : "India",
+    "country"  : "India"
     "focus"    : "Full-Stack AI Development",
     "approach" : "Build real → Deploy → Learn",
     "contact"  : "14359shanant@gmail.com"
